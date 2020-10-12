@@ -13,7 +13,7 @@ Enter a Phrase in the textbox, hit translate to get your translation
 # Changing the Language
 You can change the Language here, by refering to the GoogleTranslate python Module
 
-![ChangeLang](/images/changeLang.png)
+![ChangeLang](/images/chLang.png)
 
 
 Thank you
